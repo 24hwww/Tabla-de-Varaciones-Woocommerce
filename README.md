@@ -6,7 +6,7 @@ Compra masiva de variaciones de un producto mediante una tabla de dos atributos:
 ![vista-demo](https://raw.githubusercontent.com/24hwww/Tabla-de-Varaciones-Woocommerce/main/plugin-responsive.png)
 
 COMPRAR:
-facebook.com/24hwww
+[facebook.com/24hwww](https://facebook.com/24hwww)
 
 DEMO:
-https://www.limacentro.com/producto/camiseta-polo-franela/
+[https://www.limacentro.com/producto/camiseta-polo-franela/](https://www.limacentro.com/producto/camiseta-polo-franela/)
