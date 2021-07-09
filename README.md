@@ -1,4 +1,4 @@
-# Tabla de Varaciones Woocommerce
+# Tabla de Variaciones Woocommerce
 Compra masiva de variaciones de un producto mediante una tabla de dos atributos: (Talla y Color)
 
 ![vista-demo2](https://raw.githubusercontent.com/24hwww/Tabla-de-Varaciones-Woocommerce/main/plugin-responsive2.png)
